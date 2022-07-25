@@ -1,10 +1,10 @@
 # cmuduo-rpc
 
-C++语言编写开发的一个RPC调用框架，网络服务器基于muduo库实现，RPC服务器和客户端通讯的数据系列化和反序列化使用protobuf，服务配置中心采用zookeeper，配置文件加载采用tinyxml
+C++语言编写开发的一个RPC调用框架，网络服务器基于muduo库实现，RPC服务器和客户端通讯的数据系列化和反序列化使用protobuf，服务配置中心采用zookeeper，配置文件加载采用tinyxml 
 
 # 环境
 
-需要安装protobuf、zookeeper以及muduo网络库环境
+需要安装protobuf、zookeeper以及muduo网络库环境（）
 
 # 项目文件介绍
 
