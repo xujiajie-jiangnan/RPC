@@ -13,7 +13,7 @@ C++语言编写开发的一个RPC调用框架，网络服务器基于muduo库实
 /build：cmake编译生成的中间文件  
 /src：rpc框架源代码  
 /test：rpc框架测试代码  
-/thirdparty：第三方代码，这里主要用了tinyxml  
+/thirdparty：第三方代码，这里主要用了tinyxml插件
 
 # 编译
 
